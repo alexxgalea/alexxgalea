@@ -1,7 +1,6 @@
 # Alexandru-Marian Galea
 
-Software engineer — computer vision & backend systems. Politehnica Bucharest.
-
+Software engineer — computer vision & backend systems.
 ## Highlights
 
 - **Co-author of the VOTS2026 challenge results paper** (ECCV 2026 Workshops) — built six
@@ -23,4 +22,4 @@ PostgreSQL · Docker · Keycloak · Traefik · Java
 
 ## Contact
 
-📫 alexandru.galea2000@gmail.com · [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+📫 alexandru.galea2000@gmail.com · [LinkedIn](https://www.linkedin.com/in/alexandru-galea-040664256/)
