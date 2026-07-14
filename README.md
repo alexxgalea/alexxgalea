@@ -1,4 +1,4 @@
-# Alexandru Galea
+# Alexandru-Marian Galea
 
 Software engineer — computer vision & backend systems. Politehnica Bucharest.
 
