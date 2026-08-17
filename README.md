@@ -22,4 +22,4 @@ PostgreSQL · Docker · Keycloak · Traefik · Java
 
 ## Contact
 
-📫 alexandru.galea2000@gmail.com · [LinkedIn](https://www.linkedin.com/in/alexandru-galea-040664256/)
+📫 alexandru.galea2000@gmail.com · [LinkedIn](https://www.linkedin.com/in/alexandru-galea)
