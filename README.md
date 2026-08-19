@@ -18,7 +18,8 @@ vision side. M.Sc. in Artificial Intelligence.
   subsequently integrated into a production video-analytics platform.
 - **Automatic Detection of Objects Chromatic Components in Images** — A.-M. Galea, B. Sebacher,
   S. Marzavan, *ISIM & ISWIM 2024*, University Politehnica of Bucharest, Jun. 2024.
-  Book of Abstracts vol. III, ISSN-L 2821-8779.
+  [Book of Abstracts vol. III](https://2024.isimconference.eu/images/2024/ISIM_ISWIM_Book_of_Abstracts_2024.pdf)
+  (ISSN-L 2821-8779).
 
 ## Selected work
 
